@@ -1,0 +1,18 @@
+#img-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#image {
+    max-width: 100%;
+    display: block;
+}
+.bold-text {
+    font-weight: bold;
+}
+#title { 
+    text-align: center;
+}
+#tribute-info {
+    padding:20px;
+}
